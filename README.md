@@ -33,3 +33,5 @@ repository variables.
 
 Authentication is federated OIDC. There is no API key in this repository, and adding one
 would be a regression.
+
+<!-- rehearsal: does the required check report on an unrelated pull request? -->
